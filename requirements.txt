@@ -4,6 +4,6 @@ sentence-transformers
 faiss-cpu
 python-dotenv
 transformers
-torch==2.0.1
+torch
 numpy
 scikit-learn
